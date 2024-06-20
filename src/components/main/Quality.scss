@@ -1,0 +1,27 @@
+.Quality {
+  .quality-text {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 16px;
+    .first {
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: 600;
+      line-height: 40px;
+      text-align: center;
+      color: #2c2d2e;
+    }
+    .second {
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: 600;
+      line-height: 40px;
+      text-align: center;
+      color: #ef7c00;
+      padding-left: 10px;
+    }
+  }
+  .swiper {
+    padding-bottom: 100px;
+  }
+}
